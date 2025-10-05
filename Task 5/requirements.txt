@@ -1,0 +1,6 @@
+langchain
+langchain-groq
+chromadb
+pypdf
+wikipedia
+python-dotenv
